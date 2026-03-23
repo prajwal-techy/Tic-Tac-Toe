@@ -4,7 +4,7 @@
 }
 
 body{
-    background:   #D5F3D8; 
+    background:   navy; 
     text-align: center;
 }
 
@@ -32,17 +32,17 @@ body{
     height: 18vmin;
     width: 18vmin;
     border-radius: 1rem;
-    border: none;
-    box-shadow: 0 o 1rem rgba(0,0,0,0.1);
+    border: gold solid;
+    box-shadow: 0 0 1rem rgba(0,0,0,0.1);
     font-size :8vmin;
-    color: red;
-    background-color: #ffffc7;
+    color: gold;
+    background-color: darkblue
 }
 
 #reset-btn{
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: #fFB7C5;
+    background-color: #E84A5F;
     color: white;
     border-radius: 5rem;
     border:none;
@@ -52,7 +52,7 @@ body{
 #new-btn{
      padding: 1rem;
     font-size: 1.25rem;
-    background-color: #fFB7C5;
+    background-color: #E84A5F;
     color: white;
     border-radius: 5rem;
     border:none;
@@ -75,4 +75,8 @@ body{
 
 .hide{
     display: none;   /* we are hiding it, later after win use  .classlist.remove("hide") to show it */
+}
+
+h1{
+    color: gold;
 }
