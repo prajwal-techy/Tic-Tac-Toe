@@ -1,4 +1,4 @@
-Here’s a fun and beginner‑friendly **README.md** draft for your Tic‑Tac‑Toe project. I’ve kept it simple, colorful, and engaging—perfect for a first‑year engineering student showcasing practice work in HTML, CSS, and JavaScript 🚀✨  
+A fun and beginner‑friendly Tic‑Tac‑Toe project. It is kept simple, colorful, and engaging—perfect for a first‑year engineering student showcasing practice work in HTML, CSS, and JavaScript 🚀✨  
 
 ---
 
@@ -23,7 +23,7 @@ It’s a practice project to understand how JavaScript works with the DOM, event
 ## 🚀 How to Run  
 1. 📥 Download or clone the project  
    ```bash
-   git clone 
+   git clone https://github.com/prajwal-techy/Tic-Tac-Toe.git
    ```  
 2. 📂 Open the folder in your editor  
 3. 🌐 Run `index.html` in your browser  
